@@ -1,1 +1,1 @@
-![Jest Tests](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/test.yml/badge.svg)
+![Jest Tests](https://github.com/ttuan8600/MLOps-Project/actions/workflows/test.yml/badge.svg)
